@@ -27,4 +27,6 @@ Here are some ideas to get you started:-->
 - *[Patika.dev](https://app.patika.dev/iraska)*
 - *[Unity](https://learn.unity.com/u/iremturna)*
 
-* [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/irem-turna)
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
