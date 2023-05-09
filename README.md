@@ -1,4 +1,4 @@
-### Hi there👋, I am Irem!💫
+#### Hi there👋, I am Irem!💫
 
 ## I am passionately on the way to become a Game Developer!🎮📱
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 
 - 💬 Ask me about Unity, C#, Creative Drama, Project Management.
 - 📫 How to reach me: *[e-mail](siremturna@gmail.com)*
-- 😄 Pronouns: Ira🌈🧜‍♀️
+- 😄 Pronouns: 🌈Ira🧜‍♀️
 - ⚡ Fun fact: I'm a budgie lover🦜
 
 ## Connect with me!
@@ -26,3 +26,5 @@ Here are some ideas to get you started:-->
 - *[HackerRank](https://www.hackerrank.com/iraska)*
 - *[Patika.dev](https://app.patika.dev/iraska)*
 - *[Unity](https://learn.unity.com/u/iremturna)*
+
+* [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/irem-turna)
