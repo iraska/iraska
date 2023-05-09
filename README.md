@@ -26,7 +26,3 @@ Here are some ideas to get you started:-->
 - *[HackerRank](https://www.hackerrank.com/iraska)*
 - *[Patika.dev](https://app.patika.dev/iraska)*
 - *[Unity](https://learn.unity.com/u/iremturna)*
-
-  <a href="www.linkedin.com/in/irem-turna">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
