@@ -9,8 +9,6 @@
 
 Here are some ideas to get you started:-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iraska&theme=burnt-neon&mode=weekly&type=png)](https://git.io/streak-stats)
-
 - 🔭 I’m currently developing my own **mobile game** project.
 
 - 🌱 I'm currently learning game development with **Unity** at the *[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)*, where I'm a scholarship student, and I'm learning **Full Stack Development** at *[Kodluyoruz](https://kodluyoruz.org/)*. In addition, I complete my **Project Management** and soft skill trainings from *[Coursera](https://www.coursera.org/)*.
@@ -21,6 +19,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: *[e-mail](siremturna@gmail.com)*
 - 😄 Pronouns: 🌈Ira🧜‍♀️
 - ⚡ Fun fact: I'm a budgie lover🦜
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iraska&theme=burnt-neon&mode=weekly&card_width=800&type=png)](https://git.io/streak-stats)
 
 ## Connect with me!
 - ***[My Portfolio](https://iraska.github.io/)***
