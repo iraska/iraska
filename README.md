@@ -9,6 +9,8 @@
 
 Here are some ideas to get you started:-->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+
 - 🔭 I’m currently developing my own **mobile game** project.
 
 - 🌱 I'm currently learning game development with **Unity** at the *[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)*, where I'm a scholarship student, and I'm learning **Full Stack Development** at *[Kodluyoruz](https://kodluyoruz.org/)*. In addition, I complete my **Project Management** and soft skill trainings from *[Coursera](https://www.coursera.org/)*.
