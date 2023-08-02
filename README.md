@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iraska&theme=burnt-neon&mode=weekly&type=png)](https://git.io/streak-stats)
 
 - 🔭 I’m currently developing my own **mobile game** project.
 
