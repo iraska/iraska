@@ -9,13 +9,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently developing my own **mobile game** project.
+- 🔭 I’m currently developing my own **mobile && computer game** projects.
 
-- 🌱 I'm currently learning game development with **Unity** at the *[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)*, where I'm a scholarship student, and I'm learning **Full Stack Development** at *[Kodluyoruz](https://kodluyoruz.org/)*. In addition, I complete my **Project Management** and soft skill trainings from *[Coursera](https://www.coursera.org/)*.
+- 🎓 I have successfully graduated in game development with **Unity** from the *[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)*. During my educational journey, I also acquired valuable skills in Project Management and soft skills through courses on *[Coursera](https://www.coursera.org/)*.
 
 - 👯 I’m looking to collaborate on signing big projects with new teams🤝
 
-- 💬 Ask me about Unity, C#, Creative Drama, Project Management.
+- 💬 Ask me about Unity, C#, Game Development, Creative Drama, Project Management.
 - 📫 How to reach me: *[e-mail](siremturna@gmail.com)*
 - 😄 Pronouns: 🌈Ira🧜‍♀️
 - ⚡ Fun fact: I'm a budgie lover🦜
