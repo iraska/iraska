@@ -13,6 +13,8 @@ Here are some ideas to get you started:-->
 
 - 🎓 I have successfully graduated in game development with **Unity** from the *[Oyun ve Uygulama Akademisi](https://oyunveuygulamaakademisi.com/)*. During my educational journey, I also acquired valuable skills in Project Management and soft skills through courses on *[Coursera](https://www.coursera.org/)*.
 
+- 💻 Currently, alongside my individual projects, I am also serving as a **Unity Tutor** within the *[Kodland](https://www.kodland.org/tr)* community.
+
 - 👯 I’m looking to collaborate on signing big projects with new teams🤝
 
 - 💬 Ask me about Unity, C#, Game Development, Creative Drama, Project Management.
